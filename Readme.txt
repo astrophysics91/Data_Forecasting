@@ -21,6 +21,8 @@ Third, plot figures to see the result. The significance (value/uncertainty) of t
 ** I will update this manual and the code. Currently, the description is limited.
 ** Shapiro delay, PBDOT effect are only parameters you can add into "Perfect_Model.par" with the automatic parameter file generator.
 
+If you use this code, please cite the paper (It is still under review. Submitted to A&A)
+
 Thank you
 
 ** contact mail: jjang@mpifr-bonn.mpg.de
