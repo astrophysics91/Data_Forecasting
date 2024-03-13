@@ -14,7 +14,7 @@ This Python code requires those python packages:
 
 How to use this code?
 
-First, you can add a specific parameter in the "Perfect_Model.par", either manually or using a generator.
+First, you can add a specific parameter in the "Perfect_Model.par", either manually or using a generator ("ephemeris_gen(incli,Invest,d)").
 Second, run the code (in the second section). This determined the likelihood, fitting values at a specific date for each realization ("num_sim").
 Third, plot figures to see the result. The significance (value/uncertainty) of the likelihood and the fitting results exceeding three is the first detection criteria.
 
