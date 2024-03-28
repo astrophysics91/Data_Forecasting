@@ -42,9 +42,6 @@ A. If you already have TOAs and want to predict future trend (Known_Source)
   phase2_rms=mk_rms*0.28
 
 
-\n
-\n
-\n
 
 
 
