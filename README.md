@@ -41,6 +41,11 @@ phase1_rms=mk_rms*0.72
 
 phase2_rms=mk_rms*0.28
 
+
+
+
+
+
 B. If you want to simulate an imaginary pulsar (for multimessenger astrophysics, like LISA)
 
 First, you can add a specific parameter in the "Perfect_Model.par", either manually or using a generator ("ephemeris_gen(incli,Invest,d)").
