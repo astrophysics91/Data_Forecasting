@@ -20,15 +20,25 @@ A. If you already have TOAs and want to predict future trend (Known_Source)
 - Carefully check the setting.
 
 How many realizations? num_sim=80 
+
 The detection threshold (sigma)? sel=3
+
 Set feac: ef_cntrl=1.2
+
 Upgrade of telescope: meerkat_extension=60675
+
 Upgrade of telescope2: phase_ska=61465
+
 The interval of the observing days? days=90
+
 Random of observing date: obs_random_interval=0.3
+
 RMS level of your TOAs. In this example, I used rms of the current meerkat telescope mk_rms=4.76
+
 At each phase of telescope upgrade, the expected rms levels are calculated.
+
 phase1_rms=mk_rms*0.72
+
 phase2_rms=mk_rms*0.28
 
 B. If you want to simulate an imaginary pulsar (for multimessenger astrophysics, like LISA)
